@@ -1,0 +1,2638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "691555CD-F5EE-4F64-99E8-E984B8C186B7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B8DD986-7067-4E06-9F3D-1F98DA497B1E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/URLSession.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "getData(from:delegate:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3B8DD986-7067-4E06-9F3D-1F98DA497B1E - c1485eb550fe718b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for __C.NSURLSession.getData(from: Foundation.URL, delegate: Swift.Optional&lt;__C.NSURLSessionTaskDelegate&gt;) async throws -&gt; (Foundation.Data, __C.NSHTTPURLResponse)"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/URLSession.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "3B8DD986-7067-4E06-9F3D-1F98DA497B1E - d976aa0b0e3f0532"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for __C.NSURLSession.getData(from: Foundation.URL, delegate: Swift.Optional&lt;__C.NSURLSessionTaskDelegate&gt;) async throws -&gt; (Foundation.Data, __C.NSHTTPURLResponse)"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/URLSession.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "3B8DD986-7067-4E06-9F3D-1F98DA497B1E - 3481ac652f72b48d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for __C.NSURLSession.getData(from: Foundation.URL, delegate: Swift.Optional&lt;__C.NSURLSessionTaskDelegate&gt;) async throws -&gt; (Foundation.Data, __C.NSHTTPURLResponse)"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/URLSession.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "3B8DD986-7067-4E06-9F3D-1F98DA497B1E - 4e1d357ef435150e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for __C.NSURLSession.getData(from: Foundation.URL, delegate: Swift.Optional&lt;__C.NSURLSessionTaskDelegate&gt;) async throws -&gt; (Foundation.Data, __C.NSHTTPURLResponse)"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/URLSession.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3913C2AE-441C-4954-B986-F9B7DFECDC69"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/URLSession.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "getData(from:delegate:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3913C2AE-441C-4954-B986-F9B7DFECDC69 - c1485eb550fe718b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for __C.NSURLSession.getData(from: Foundation.URL, delegate: Swift.Optional&lt;__C.NSURLSessionTaskDelegate&gt;) async throws -&gt; (Foundation.Data, __C.NSHTTPURLResponse)"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/URLSession.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "3913C2AE-441C-4954-B986-F9B7DFECDC69 - d976aa0b0e3f0532"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for __C.NSURLSession.getData(from: Foundation.URL, delegate: Swift.Optional&lt;__C.NSURLSessionTaskDelegate&gt;) async throws -&gt; (Foundation.Data, __C.NSHTTPURLResponse)"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/URLSession.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "3913C2AE-441C-4954-B986-F9B7DFECDC69 - 3481ac652f72b48d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for __C.NSURLSession.getData(from: Foundation.URL, delegate: Swift.Optional&lt;__C.NSURLSessionTaskDelegate&gt;) async throws -&gt; (Foundation.Data, __C.NSHTTPURLResponse)"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/URLSession.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "3913C2AE-441C-4954-B986-F9B7DFECDC69 - 4e1d357ef435150e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for __C.NSURLSession.getData(from: Foundation.URL, delegate: Swift.Optional&lt;__C.NSURLSessionTaskDelegate&gt;) async throws -&gt; (Foundation.Data, __C.NSHTTPURLResponse)"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/URLSession.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "78A7462A-56AC-47B8-8220-41621427ECD2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/URLSession.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "getData(for:delegate:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "78A7462A-56AC-47B8-8220-41621427ECD2 - c5e55d2ecc6246a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for __C.NSURLSession.getData(for: Foundation.URLRequest, delegate: Swift.Optional&lt;__C.NSURLSessionTaskDelegate&gt;) async throws -&gt; (Foundation.Data, __C.NSHTTPURLResponse)"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/URLSession.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "78A7462A-56AC-47B8-8220-41621427ECD2 - 4a69c9126d923453"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for __C.NSURLSession.getData(for: Foundation.URLRequest, delegate: Swift.Optional&lt;__C.NSURLSessionTaskDelegate&gt;) async throws -&gt; (Foundation.Data, __C.NSHTTPURLResponse)"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/URLSession.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "78A7462A-56AC-47B8-8220-41621427ECD2 - 448dfd6abebd3868"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for __C.NSURLSession.getData(for: Foundation.URLRequest, delegate: Swift.Optional&lt;__C.NSURLSessionTaskDelegate&gt;) async throws -&gt; (Foundation.Data, __C.NSHTTPURLResponse)"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/URLSession.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "78A7462A-56AC-47B8-8220-41621427ECD2 - e0eaa93ea640ba69"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for __C.NSURLSession.getData(for: Foundation.URLRequest, delegate: Swift.Optional&lt;__C.NSURLSessionTaskDelegate&gt;) async throws -&gt; (Foundation.Data, __C.NSHTTPURLResponse)"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/URLSession.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C6F9F60-68BB-4290-89CF-1F13B4997332"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/Interactors/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
+            landmarkName = "login(credentials:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8C6F9F60-68BB-4290-89CF-1F13B4997332 - fb0f643926797a58"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for myManga.Network.login(credentials: myManga.Credentials) async throws -&gt; Swift.String"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "8C6F9F60-68BB-4290-89CF-1F13B4997332 - fb0f643926797b71"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for myManga.Network.login(credentials: myManga.Credentials) async throws -&gt; Swift.String"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BAA26580-941D-4D89-8AF9-5D34C408C63E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/Interactors/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "login(credentials:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF8ED332-BA79-4CAE-874B-1010DDCC1BFD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/Interactors/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "getJSON(request:type:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BF8ED332-BA79-4CAE-874B-1010DDCC1BFD - 3f2a7f50d298d9f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for myManga.Network.getJSON&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(request: Foundation.URLRequest, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "BF8ED332-BA79-4CAE-874B-1010DDCC1BFD - 47e1df764702073d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for myManga.Network.getJSON&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(request: Foundation.URLRequest, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "BF8ED332-BA79-4CAE-874B-1010DDCC1BFD - cabb9216867c45e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for myManga.Network.getJSON&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(request: Foundation.URLRequest, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "BF8ED332-BA79-4CAE-874B-1010DDCC1BFD - 1ff300b593ae33ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for myManga.Network.getJSON&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(request: Foundation.URLRequest, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5101FE28-5B81-48D1-A376-6C76804E95A6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/Interactors/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "getJSON(request:type:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B4132B8-CB25-4A2D-9F43-9057A703239A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/Interactors/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "getJSON(request:type:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3B4132B8-CB25-4A2D-9F43-9057A703239A - cabb9216867c4525"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for myManga.Network.getJSON&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(request: Foundation.URLRequest, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "920">
+               </Location>
+               <Location
+                  uuid = "3B4132B8-CB25-4A2D-9F43-9057A703239A - cabb9216867c4525"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for myManga.Network.getJSON&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(request: Foundation.URLRequest, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "724">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "86C8BF15-DDC8-440E-A874-74D9ADD34614"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/Interactors/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "getJSON(request:type:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3BA19D0F-BAD4-45FC-96B2-7544F7E272A6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/Interactors/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "getJSON(request:type:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3BA19D0F-BAD4-45FC-96B2-7544F7E272A6 - cabb9216867c448e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for myManga.Network.getJSON&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(request: Foundation.URLRequest, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "724">
+               </Location>
+               <Location
+                  uuid = "3BA19D0F-BAD4-45FC-96B2-7544F7E272A6 - cabb9216867c44c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for myManga.Network.getJSON&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(request: Foundation.URLRequest, type: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "1424">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6C632398-F446-4286-9E9C-9587C3F40B83"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/URLSession.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "getData(for:delegate:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6C632398-F446-4286-9E9C-9587C3F40B83 - 448dfd6abebd3732"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for __C.NSURLSession.getData(for: Foundation.URLRequest, delegate: Swift.Optional&lt;__C.NSURLSessionTaskDelegate&gt;) async throws -&gt; (Foundation.Data, __C.NSHTTPURLResponse)"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/URLSession.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "848">
+               </Location>
+               <Location
+                  uuid = "6C632398-F446-4286-9E9C-9587C3F40B83 - e0eaa93ea640b533"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for __C.NSURLSession.getData(for: Foundation.URLRequest, delegate: Swift.Optional&lt;__C.NSURLSessionTaskDelegate&gt;) async throws -&gt; (Foundation.Data, __C.NSHTTPURLResponse)"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/URLSession.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "280">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ABFC6B5B-0E4A-466D-9D37-914A3F32DDA2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/URLSession.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "getData(for:delegate:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ABFC6B5B-0E4A-466D-9D37-914A3F32DDA2 - 448dfd6abebd3770"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for __C.NSURLSession.getData(for: Foundation.URLRequest, delegate: Swift.Optional&lt;__C.NSURLSessionTaskDelegate&gt;) async throws -&gt; (Foundation.Data, __C.NSHTTPURLResponse)"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/URLSession.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "1024">
+               </Location>
+               <Location
+                  uuid = "ABFC6B5B-0E4A-466D-9D37-914A3F32DDA2 - e0eaa93ea640b571"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for __C.NSURLSession.getData(for: Foundation.URLRequest, delegate: Swift.Optional&lt;__C.NSURLSessionTaskDelegate&gt;) async throws -&gt; (Foundation.Data, __C.NSHTTPURLResponse)"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/URLSession.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "456">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E4555A8-C11A-4734-BB01-5F442B51A841"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/URLSession.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "getData(for:delegate:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "14718704-7AE2-4337-A492-64F3E5A441AE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/URLSession.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "getData(for:delegate:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "76627BE9-C984-4A45-95C9-9A59EE1EAE4A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/NetworkError.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "description"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "76627BE9-C984-4A45-95C9-9A59EE1EAE4A - 41182e18bbc82f4f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myManga.NetworkError.description.getter : Swift.String"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/NetworkError.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "76627BE9-C984-4A45-95C9-9A59EE1EAE4A - 41182e18bbc82f4f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myManga.NetworkError.description.getter : Swift.String"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/NetworkError.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "208">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A8677C2-F611-47E2-B71C-FFE5546CEAA6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/Interactors/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "getStringResponse(request:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0A8677C2-F611-47E2-B71C-FFE5546CEAA6 - f2512d7b0e0311cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for myManga.Network.postJSON(request: Foundation.URLRequest, status: Swift.Int) async throws -&gt; ()"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "364">
+               </Location>
+               <Location
+                  uuid = "0A8677C2-F611-47E2-B71C-FFE5546CEAA6 - d0ed2ff83876738e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for myManga.Network.postJSON(request: Foundation.URLRequest, status: Swift.Int) async throws -&gt; ()"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "0A8677C2-F611-47E2-B71C-FFE5546CEAA6 - 6f2c231dd411ccde"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for myManga.Network.getStringResponse(request: Foundation.URLRequest) async throws -&gt; Swift.String"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "284">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F2DDD631-B8EF-4E42-A682-5D5ADAA05790"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/Interactors/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "124"
+            endingLineNumber = "124"
+            landmarkName = "registration(registration:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F2DDD631-B8EF-4E42-A682-5D5ADAA05790 - 869652e13e922b94"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for myManga.Network.registration(registration: myManga.Registration) async throws -&gt; ()"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "F2DDD631-B8EF-4E42-A682-5D5ADAA05790 - 2ec2931b1bf5df6c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for myManga.Network.registration(registration: myManga.Registration) async throws -&gt; Swift.String"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E9E74DC3-9417-4872-82A3-E27BEC1F30D9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/Interactors/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "registration(registration:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E9E74DC3-9417-4872-82A3-E27BEC1F30D9 - 869652e13e922bd6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for myManga.Network.registration(registration: myManga.Registration) async throws -&gt; ()"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "440">
+               </Location>
+               <Location
+                  uuid = "E9E74DC3-9417-4872-82A3-E27BEC1F30D9 - 8235368cf8f121ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for myManga.Network.registration(registration: myManga.Registration) async throws -&gt; ()"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "E9E74DC3-9417-4872-82A3-E27BEC1F30D9 - 49f80ceda14d6fd4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for myManga.Network.registration(registration: myManga.Registration) async throws -&gt; ()"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "E9E74DC3-9417-4872-82A3-E27BEC1F30D9 - aa4ee7ee1e59d1d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for myManga.Network.registration(registration: myManga.Registration) async throws -&gt; ()"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "E9E74DC3-9417-4872-82A3-E27BEC1F30D9 - 2ec2931b1bf5df2e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for myManga.Network.registration(registration: myManga.Registration) async throws -&gt; Swift.String"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "440">
+               </Location>
+               <Location
+                  uuid = "E9E74DC3-9417-4872-82A3-E27BEC1F30D9 - ed06e82582460319"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for myManga.Network.registration(registration: myManga.Registration) async throws -&gt; Swift.String"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "E9E74DC3-9417-4872-82A3-E27BEC1F30D9 - ff7a138a7af7e36c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for myManga.Network.registration(registration: myManga.Registration) async throws -&gt; Swift.String"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "E9E74DC3-9417-4872-82A3-E27BEC1F30D9 - 5827d2710a76854d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for myManga.Network.registration(registration: myManga.Registration) async throws -&gt; Swift.String"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "E9E74DC3-9417-4872-82A3-E27BEC1F30D9 - 5827d2710a76854d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for myManga.Network.registration(registration: myManga.Registration) async throws -&gt; Swift.String"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DE2071A8-656F-4359-9486-6AA6C5ADE99C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/Interactors/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "getVoidResponse(request:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DE2071A8-656F-4359-9486-6AA6C5ADE99C - 3cc2d19ca30af6fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for myManga.Network.getVoidResponse(request: Foundation.URLRequest) async throws -&gt; ()"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "DE2071A8-656F-4359-9486-6AA6C5ADE99C - d771c978c07b07e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for myManga.Network.getVoidResponse(request: Foundation.URLRequest) async throws -&gt; ()"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "DE2071A8-656F-4359-9486-6AA6C5ADE99C - 72b32e8f4d2432f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for myManga.Network.getVoidResponse(request: Foundation.URLRequest) async throws -&gt; ()"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "DE2071A8-656F-4359-9486-6AA6C5ADE99C - 2c547231be309cf6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for myManga.Network.getVoidResponse(request: Foundation.URLRequest) async throws -&gt; ()"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3E1E8E8E-C657-4AB3-8AD8-0DD96FAC1A95"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/Interactors/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "getVoidResponse(request:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "524D10CC-B251-4A2F-B8DF-1547A0C82717"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/Interactors/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "getVoidResponse(request:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CAE94F32-C72E-49ED-838F-8456BDEEB262"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/RegistrationVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "registration()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CAE94F32-C72E-49ED-838F-8456BDEEB262 - 59f0cc8e3cad56b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for myManga.RegistrationVM.registration() async throws -&gt; Swift.Bool"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/RegistrationVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "CAE94F32-C72E-49ED-838F-8456BDEEB262 - 142bd7cb8ef30132"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for myManga.RegistrationVM.registration() async throws -&gt; Swift.Bool"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/RegistrationVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "CAE94F32-C72E-49ED-838F-8456BDEEB262 - d70a2c0dbd8028bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for myManga.RegistrationVM.registration() async throws -&gt; Swift.Bool"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/RegistrationVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "CAE94F32-C72E-49ED-838F-8456BDEEB262 - efe89c42fa114984"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for myManga.RegistrationVM.registration() async throws -&gt; Swift.Bool"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/RegistrationVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "CAE94F32-C72E-49ED-838F-8456BDEEB262 - 142bd7cb8ef30132"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for myManga.RegistrationVM.registration() async throws -&gt; Swift.Bool"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/RegistrationVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "CAE94F32-C72E-49ED-838F-8456BDEEB262 - d70a2c0dbd8028bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for myManga.RegistrationVM.registration() async throws -&gt; Swift.Bool"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/RegistrationVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "CAE94F32-C72E-49ED-838F-8456BDEEB262 - 7d23ffc07b740b86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for myManga.RegistrationVM.registration() async throws -&gt; Swift.Bool"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/RegistrationVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3943A3DB-FCA0-4A62-AE1B-746512DBD5EA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/RegistrationVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "registration()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3943A3DB-FCA0-4A62-AE1B-746512DBD5EA - efe89c42fa1149c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for myManga.RegistrationVM.registration() async throws -&gt; Swift.Bool"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/RegistrationVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "3943A3DB-FCA0-4A62-AE1B-746512DBD5EA - 24bbf6169c59124c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor @Sendable () -&gt; () in myManga.RegistrationVM.registration() async throws -&gt; Swift.Bool"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/RegistrationVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "3943A3DB-FCA0-4A62-AE1B-746512DBD5EA - a44d0f833ae2eb6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for myManga.RegistrationVM.registration() async throws -&gt; Swift.Bool"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/RegistrationVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "50CD94B6-5586-4B2C-9B26-CE2056220E88"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/RegistrationVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "registration()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "50CD94B6-5586-4B2C-9B26-CE2056220E88 - d70a2c0dbd8029b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for myManga.RegistrationVM.registration() async throws -&gt; Swift.Bool"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/RegistrationVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "50CD94B6-5586-4B2C-9B26-CE2056220E88 - 7d23ffc07b740a8e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for myManga.RegistrationVM.registration() async throws -&gt; Swift.Bool"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/RegistrationVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "50CD94B6-5586-4B2C-9B26-CE2056220E88 - 314ac04bb2144ca4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Swift.MainActor @Sendable () -&gt; () in myManga.RegistrationVM.registration() async throws -&gt; Swift.Bool"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/RegistrationVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5AE77955-A904-4BF1-87CF-C49993F6D3B9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/RegistrationVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "registration()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6DEE29DC-1597-4138-9207-B5A895D020EB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/Interactors/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "registration(registration:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C35FA36D-F28F-497A-8C11-FD182AB62504"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/Authentication.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "requestBiometricUnlock(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C35FA36D-F28F-497A-8C11-FD182AB62504 - a181cb1169d51134"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myManga.Authentication.requestBiometricUnlock(completion: (Swift.Result&lt;myManga.Credentials, myManga.Authentication.AuthenticationError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Authentication.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "C35FA36D-F28F-497A-8C11-FD182AB62504 - a181cb1169d5164d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myManga.Authentication.requestBiometricUnlock(completion: (Swift.Result&lt;myManga.Credentials, myManga.Authentication.AuthenticationError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Authentication.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "908">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "94AF28D9-E5E9-4D18-9FB8-18179C8642CA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/Authentication.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "requestBiometricUnlock(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F4F29BC2-458B-4EAB-9D31-6AD0918C8295"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/Authentication.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "requestBiometricUnlock(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F4F29BC2-458B-4EAB-9D31-6AD0918C8295 - a181cb1169d51117"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myManga.Authentication.requestBiometricUnlock(completion: (Swift.Result&lt;myManga.Credentials, myManga.Authentication.AuthenticationError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Authentication.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "F4F29BC2-458B-4EAB-9D31-6AD0918C8295 - a181cb1169d51117"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myManga.Authentication.requestBiometricUnlock(completion: (Swift.Result&lt;myManga.Credentials, myManga.Authentication.AuthenticationError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Authentication.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "296">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DB737083-32E4-47F3-9222-F9346C6A6756"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/Authentication.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "requestBiometricUnlock(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DB737083-32E4-47F3-9222-F9346C6A6756 - a181cb1169d52aa1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myManga.Authentication.requestBiometricUnlock(completion: (Swift.Result&lt;myManga.Credentials, myManga.Authentication.AuthenticationError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Authentication.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "992">
+               </Location>
+               <Location
+                  uuid = "DB737083-32E4-47F3-9222-F9346C6A6756 - a181cb1169d51762"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myManga.Authentication.requestBiometricUnlock(completion: (Swift.Result&lt;myManga.Credentials, myManga.Authentication.AuthenticationError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Authentication.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "1256">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FDA56318-C35E-40B7-8ED5-ADD623EE7B1C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/Authentication.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "requestBiometricUnlock(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FDA56318-C35E-40B7-8ED5-ADD623EE7B1C - a181cb1169d52aa1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myManga.Authentication.requestBiometricUnlock(completion: (Swift.Result&lt;myManga.Credentials, myManga.Authentication.AuthenticationError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Authentication.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "992">
+               </Location>
+               <Location
+                  uuid = "FDA56318-C35E-40B7-8ED5-ADD623EE7B1C - a181cb1169d51535"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myManga.Authentication.requestBiometricUnlock(completion: (Swift.Result&lt;myManga.Credentials, myManga.Authentication.AuthenticationError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Authentication.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "2004">
+               </Location>
+               <Location
+                  uuid = "FDA56318-C35E-40B7-8ED5-ADD623EE7B1C - 6d9f2e3ea0cf243"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in myManga.Authentication.requestBiometricUnlock(completion: (Swift.Result&lt;myManga.Credentials, myManga.Authentication.AuthenticationError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Authentication.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "280">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A173E75-0AF8-4812-BD72-B5C8C7DF7FDB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/Authentication.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "requestBiometricUnlock(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56A2511A-6058-4992-913E-A7F768424BA8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/Authentication.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "requestBiometricUnlock(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "56A2511A-6058-4992-913E-A7F768424BA8 - a181cb1169d52aa1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myManga.Authentication.requestBiometricUnlock(completion: (Swift.Result&lt;myManga.Credentials, myManga.Authentication.AuthenticationError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Authentication.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "992">
+               </Location>
+               <Location
+                  uuid = "56A2511A-6058-4992-913E-A7F768424BA8 - a181cb1169d51573"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myManga.Authentication.requestBiometricUnlock(completion: (Swift.Result&lt;myManga.Credentials, myManga.Authentication.AuthenticationError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Authentication.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "1844">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "283011A1-DF62-4D05-96B6-7B67F7F6A90C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/Authentication.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "requestBiometricUnlock(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "283011A1-DF62-4D05-96B6-7B67F7F6A90C - a181cb1169d511f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myManga.Authentication.requestBiometricUnlock(completion: (Swift.Result&lt;myManga.Credentials, myManga.Authentication.AuthenticationError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Authentication.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "312">
+               </Location>
+               <Location
+                  uuid = "283011A1-DF62-4D05-96B6-7B67F7F6A90C - a181cb1169d511f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myManga.Authentication.requestBiometricUnlock(completion: (Swift.Result&lt;myManga.Credentials, myManga.Authentication.AuthenticationError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Authentication.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "328">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F5955B2E-42E4-4F8F-A9AF-D4E3D2764191"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/Interactors/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "138"
+            endingLineNumber = "138"
+            landmarkName = "getBestMangas(page:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F5955B2E-42E4-4F8F-A9AF-D4E3D2764191 - a5658d0bb71e6779"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for myManga.Network.getBestMangas(page: Swift.Int) async throws -&gt; myManga.Mangas"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "252">
+               </Location>
+               <Location
+                  uuid = "F5955B2E-42E4-4F8F-A9AF-D4E3D2764191 - f2d14c0ec9f9ab7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for myManga.Network.getBestMangas(page: Swift.Int) async throws -&gt; myManga.Mangas"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "F5955B2E-42E4-4F8F-A9AF-D4E3D2764191 - 287b2c837ea40d7c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for myManga.Network.getBestMangas(page: Swift.Int) async throws -&gt; myManga.Mangas"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "F5955B2E-42E4-4F8F-A9AF-D4E3D2764191 - a5658d0bb71e6779"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for myManga.Network.getBestMangas(page: Swift.Int) async throws -&gt; myManga.Mangas"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "172">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF8BDCE3-DAC4-496D-BA0D-BD5E8B3A2293"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/Interactors/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "141"
+            endingLineNumber = "141"
+            landmarkName = "getBestMangas(page:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5E64C9CE-3EB6-4D33-8368-8326F71C9EEE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/Interactors/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "getBestMangas(page:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5E64C9CE-3EB6-4D33-8368-8326F71C9EEE - a5658d0bb71e6758"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for myManga.Network.getBestMangas(page: Swift.Int) async throws -&gt; myManga.Mangas"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "252">
+               </Location>
+               <Location
+                  uuid = "5E64C9CE-3EB6-4D33-8368-8326F71C9EEE - f2d14c0ec9f9ab5e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for myManga.Network.getBestMangas(page: Swift.Int) async throws -&gt; myManga.Mangas"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "5E64C9CE-3EB6-4D33-8368-8326F71C9EEE - 287b2c837ea40d5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for myManga.Network.getBestMangas(page: Swift.Int) async throws -&gt; myManga.Mangas"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3639EA1E-2319-481B-92E6-66ACC6980B01"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/Interactors/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "140"
+            endingLineNumber = "140"
+            landmarkName = "getBestMangas(page:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3639EA1E-2319-481B-92E6-66ACC6980B01 - a5658d0bb71e67bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for myManga.Network.getBestMangas(page: Swift.Int) async throws -&gt; myManga.Mangas"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "1080">
+               </Location>
+               <Location
+                  uuid = "3639EA1E-2319-481B-92E6-66ACC6980B01 - ae28c112856fbbc7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for myManga.Network.getBestMangas(page: Swift.Int) async throws -&gt; myManga.Mangas"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "3639EA1E-2319-481B-92E6-66ACC6980B01 - f2d14c0ec9f9ab98"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for myManga.Network.getBestMangas(page: Swift.Int) async throws -&gt; myManga.Mangas"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "3639EA1E-2319-481B-92E6-66ACC6980B01 - f2d14c0ec9f9abb9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for myManga.Network.getBestMangas(page: Swift.Int) async throws -&gt; myManga.Mangas"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "3639EA1E-2319-481B-92E6-66ACC6980B01 - 287b2c837ea40d9b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for myManga.Network.getBestMangas(page: Swift.Int) async throws -&gt; myManga.Mangas"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "3639EA1E-2319-481B-92E6-66ACC6980B01 - 287b2c837ea40dba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for myManga.Network.getBestMangas(page: Swift.Int) async throws -&gt; myManga.Mangas"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E19A3E9F-99F2-4E24-ADC7-04A18BA6B049"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/MangasVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "getBestMangas()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E19A3E9F-99F2-4E24-ADC7-04A18BA6B049 - f48a9d5a28cca634"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for myManga.MangasVM.getBestMangas() async -&gt; ()"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/MangasVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "E19A3E9F-99F2-4E24-ADC7-04A18BA6B049 - 14eee2529afeee01"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for myManga.MangasVM.getBestMangas() async -&gt; ()"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/MangasVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "E19A3E9F-99F2-4E24-ADC7-04A18BA6B049 - c08518986d217a32"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for myManga.MangasVM.getBestMangas() async -&gt; ()"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/MangasVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "E19A3E9F-99F2-4E24-ADC7-04A18BA6B049 - d6b9dbffba1d003f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for myManga.MangasVM.getBestMangas() async -&gt; ()"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/MangasVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4DC8C17F-0D44-4D5D-9E7F-3EDB98A3B08E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/Interactors/ImageInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "getImage(url:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4DC8C17F-0D44-4D5D-9E7F-3EDB98A3B08E - 6a86bbe6c333f0ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myManga.ImageManager.getImage(url: Foundation.URL) async throws -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/ImageInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "4DC8C17F-0D44-4D5D-9E7F-3EDB98A3B08E - aef14eead77424f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for myManga.ImageManager.getImage(url: Foundation.URL) async throws -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/ImageInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "97AB314E-442F-4143-9BFC-FC49798B0B88"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/Interactors/ImageInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "getImage(url:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "97AB314E-442F-4143-9BFC-FC49798B0B88 - aef14eead7742410"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for myManga.ImageManager.getImage(url: Foundation.URL) async throws -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/ImageInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "97AB314E-442F-4143-9BFC-FC49798B0B88 - 63494bec3b826792"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for myManga.ImageManager.getImage(url: Foundation.URL) async throws -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/Interactors/ImageInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "584">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4623E279-3E8B-418B-A259-4E9431B1F268"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/ImageVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "init(interactor:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "865A36A0-357E-4E53-8FAC-55AAB71FFC73"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/Interactors/ImageInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "getImage(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4366934C-07CB-4671-A760-3F64A85CD1CF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/ImageVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "getImage(url:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4366934C-07CB-4671-A760-3F64A85CD1CF - 61c2e453c34e50e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myManga.ImageVM.getImage(url: Swift.Optional&lt;Foundation.URL&gt;) throws -&gt; ()"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/ImageVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "432">
+               </Location>
+               <Location
+                  uuid = "4366934C-07CB-4671-A760-3F64A85CD1CF - 61c2e453c34e50e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myManga.ImageVM.getImage(url: Swift.Optional&lt;Foundation.URL&gt;) throws -&gt; ()"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/ImageVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "584">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "846AC745-A9A8-48E5-9B2E-763AB06AC3C9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/ImageVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "getImage(url:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "846AC745-A9A8-48E5-9B2E-763AB06AC3C9 - 61c2e453c34e508a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myManga.ImageVM.getImage(url: Swift.Optional&lt;Foundation.URL&gt;) throws -&gt; ()"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/ImageVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "500">
+               </Location>
+               <Location
+                  uuid = "846AC745-A9A8-48E5-9B2E-763AB06AC3C9 - 61c2e453c34e508a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myManga.ImageVM.getImage(url: Swift.Optional&lt;Foundation.URL&gt;) throws -&gt; ()"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/ImageVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "652">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0787BBD8-37C1-4FC7-A02F-8A21299CFEA8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/ImageVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "getImage(url:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0787BBD8-37C1-4FC7-A02F-8A21299CFEA8 - 82df24528427966b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in myManga.ImageVM.getImage(url: Swift.Optional&lt;Foundation.URL&gt;) throws -&gt; ()"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/ImageVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "0787BBD8-37C1-4FC7-A02F-8A21299CFEA8 - 5bcf66fda98476f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async throws -&gt; () in myManga.ImageVM.getImage(url: Swift.Optional&lt;Foundation.URL&gt;) throws -&gt; ()"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/ImageVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "0787BBD8-37C1-4FC7-A02F-8A21299CFEA8 - f1692c1c38991e67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in myManga.ImageVM.getImage(url: Swift.Optional&lt;Foundation.URL&gt;) throws -&gt; ()"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/ImageVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "0787BBD8-37C1-4FC7-A02F-8A21299CFEA8 - 79b21181c965c27d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in myManga.ImageVM.getImage(url: Swift.Optional&lt;Foundation.URL&gt;) throws -&gt; ()"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/ImageVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "0787BBD8-37C1-4FC7-A02F-8A21299CFEA8 - 79b21181c965c27d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in myManga.ImageVM.getImage(url: Swift.Optional&lt;Foundation.URL&gt;) throws -&gt; ()"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/ImageVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "0787BBD8-37C1-4FC7-A02F-8A21299CFEA8 - 82df24528427966b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in myManga.ImageVM.getImage(url: Swift.Optional&lt;Foundation.URL&gt;) throws -&gt; ()"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/ImageVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C28EF95E-2260-491A-B9A8-395A32FABEE4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/ImageVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "getImage(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0459DA88-D957-4512-B06E-7F471D9BBD0F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/ImageVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "getImage(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4B974B77-264D-4F9D-8C9B-45800873DF92"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/MangasGrid.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "mainScroll"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B56930E-9EDD-4AD1-98A6-0E6FE0DAC3E3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/FiltersVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "getAuthors()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F7EF8785-C887-4B3C-8B73-718177E4F07E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/MangasVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "getMangasCollection()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F7EF8785-C887-4B3C-8B73-718177E4F07E - 6baf5ab1ef0df03e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for myManga.MangasVM.getMangasCollection() async -&gt; ()"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/MangasVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "F7EF8785-C887-4B3C-8B73-718177E4F07E - 2d353b8c73df9203"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for myManga.MangasVM.getMangasCollection() async -&gt; ()"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/MangasVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "F7EF8785-C887-4B3C-8B73-718177E4F07E - 1715f28d6514a030"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for myManga.MangasVM.getMangasCollection() async -&gt; ()"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/MangasVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "F7EF8785-C887-4B3C-8B73-718177E4F07E - 340f5d409433a835"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for myManga.MangasVM.getMangasCollection() async -&gt; ()"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/MangasVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "716DF972-682D-4358-BC4F-FC4664FFE531"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/Interactors/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "191"
+            endingLineNumber = "191"
+            landmarkName = "getMangaCollection()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C6DBA24-40EA-46C9-B1A2-B67669DB6B83"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/MangaCollectionDetail.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "111"
+            endingLineNumber = "111"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D0E772A-F4A6-44D0-B964-2EA6BA1C66BD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/MangasVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "131"
+            endingLineNumber = "131"
+            landmarkName = "isMangaInCollection(mangaId:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6D0E772A-F4A6-44D0-B964-2EA6BA1C66BD - 5161efe1e1c02a94"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myManga.MangasVM.isMangaInCollection(mangaId: Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/MangasVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "131"
+                  endingLineNumber = "131"
+                  offsetFromSymbolStart = "1528">
+               </Location>
+               <Location
+                  uuid = "6D0E772A-F4A6-44D0-B964-2EA6BA1C66BD - 5161efe1e1c02a94"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myManga.MangasVM.isMangaInCollection(mangaId: Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/MangasVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "131"
+                  endingLineNumber = "131"
+                  offsetFromSymbolStart = "1476">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3364B7C1-E483-4832-BF2A-8A1A1F71C25C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myManga/MangasVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "isMangaInCollection(mangaId:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3364B7C1-E483-4832-BF2A-8A1A1F71C25C - 5161efe1e1c02a7b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myManga.MangasVM.isMangaInCollection(mangaId: Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/MangasVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "1264">
+               </Location>
+               <Location
+                  uuid = "3364B7C1-E483-4832-BF2A-8A1A1F71C25C - 5161efe1e1c02a7b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myManga.MangasVM.isMangaInCollection(mangaId: Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/MangasVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "356">
+               </Location>
+               <Location
+                  uuid = "3364B7C1-E483-4832-BF2A-8A1A1F71C25C - 5161efe1e1c02a7b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myManga.MangasVM.isMangaInCollection(mangaId: Swift.Int) -&gt; Swift.Bool"
+                  moduleName = "myManga"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecipria/Documents/Mi%20Manga/myManga/myManga/MangasVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "1252">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
